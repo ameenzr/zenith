@@ -14,81 +14,37 @@
 its a flutter app for 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Boring intuitive ways to tweek control panel feature like slider of volume control, turning bluetooth on and of etc.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+we make it more fun and game like
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- flutter
+- dart
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- none
 
 ### Implementation
-For Software:
+For Software: download flutter and create a new flutter project. copy and replace lib folder and pubspec.yaml file from our repo with newly generated files. Update dependencies by entering "flutter pub get" on terminal. then run it on an android device or any other smartphone.
 # Installation
-[commands]
+install on any android device for better using
 
 # Run
-[commands]
+flutter run
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+(https://drive.google.com/file/d/16qjlEjx2cdIjL9URp-4MgXiHAu3DDIX1/view?usp=sharing)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+(https://drive.google.com/file/d/1ERc_dy6tRFZAHsbkeBx_xx4BJpszKis7/view?usp=sharing)
 *Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
