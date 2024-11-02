@@ -11,13 +11,14 @@
 - Member 2: Noel Thomas - GEC Palakkad
 
 ### Project Description
-its a flutter app for 
+its a flutter app for an non-ergonomic control panel for smartphones.
 
 ### The Problem (that doesn't exist)
-Boring intuitive ways to tweek control panel feature like slider of volume control, turning bluetooth on and of etc.
+Intuitive and straight forward ways to tweek or turn on native control panel features on smartphone
 
 ### The Solution (that nobody asked for)
-we make it more fun and game like
+- tilt phone to control volume slider
+- click on any icon and it would turn on unexpected random native feature including torch, bluetooth, wifi, dark mode
 
 ## Technical Details
 ### Technologies/Components Used
@@ -25,31 +26,30 @@ For Software:
 - flutter
 - dart
 
-For Hardware:
-- none
 
 ### Implementation
-For Software: download flutter and create a new flutter project. copy and replace lib folder and pubspec.yaml file from our repo with newly generated files. Update dependencies by entering "flutter pub get" on terminal. then run it on an android device or any other smartphone.
+For Software: 
+-download flutter and create a new flutter project. 
+-copy and replace LIB FOLDER and PUBSPEC.YAML file from our repo with newly generated files. 
+-Update dependencies by entering "flutter pub get" on terminal. 
+-then run it on any physical android device for better experience.
+
 # Installation
-install on any android device for better using
+install on any android device for better usage
 
-# Run
-flutter run
+APK LINK: https://drive.google.com/file/d/1eNXNqf-jk39L-208B7EZ10CzUrnx0EyV/view?usp=sharing
 
-### Project Documentation
-For Software:
 
-# Screenshots 
-(https://drive.google.com/file/d/16qjlEjx2cdIjL9URp-4MgXiHAu3DDIX1/view?usp=sharing)
-*Add caption explaining what this shows*
+# Screenshots and demo
 
-(https://drive.google.com/file/d/1ERc_dy6tRFZAHsbkeBx_xx4BJpszKis7/view?usp=sharing)
-*Add caption explaining what this shows*
----
-Made with ❤️ at TinkerHub Useless Projects 
+home screen screenshot
+![image](https://github.com/user-attachments/assets/3f0d28d3-fbf7-4e29-8f4a-17e76bb73458)
 
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+demo of random feature selection while clicking random icons
+https://github.com/user-attachments/assets/379fa2c9-f0ef-43dd-92da-886764e60ed6
+
+demo of controlling volume slider by tilting phone
+https://github.com/user-attachments/assets/8da4b6be-2c60-4ed3-a5a7-5341430192d2
 
 
 
