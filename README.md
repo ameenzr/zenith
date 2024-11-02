@@ -39,7 +39,7 @@ flutter run
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 (https://drive.google.com/file/d/16qjlEjx2cdIjL9URp-4MgXiHAu3DDIX1/view?usp=sharing)
 *Add caption explaining what this shows*
 
