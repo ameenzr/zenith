@@ -11,7 +11,7 @@
 - Member 2: Noel Thomas - GEC Palakkad
 
 ### Project Description
-its a flutter app for an non-ergonomic control panel for smartphones.
+its an app for a non-ergonomic control panel for smartphones.
 
 ### The Problem (that doesn't exist)
 Intuitive and straight forward ways to tweek or turn on native control panel features on smartphone
