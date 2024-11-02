@@ -52,4 +52,9 @@ demo of controlling volume slider by tilting phone
 https://github.com/user-attachments/assets/8da4b6be-2c60-4ed3-a5a7-5341430192d2
 
 
+## Team Contributions
+- Noel: Source code, testing, ideation
+- Ameen: Debugging, testing, ideation, documentation
+
+
 
