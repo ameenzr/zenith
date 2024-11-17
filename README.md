@@ -13,6 +13,14 @@
 ### Project Description
 its an app for a non-ergonomic control panel for smartphones.
 
+### Vedio link
+
+vedio demo of random feature selection while clicking random icons
+https://github.com/user-attachments/assets/379fa2c9-f0ef-43dd-92da-886764e60ed6
+
+vedio demo of controlling volume slider by tilting phone
+https://github.com/user-attachments/assets/8da4b6be-2c60-4ed3-a5a7-5341430192d2
+
 ### The Problem (that doesn't exist)
 Intuitive and straight forward ways to tweek or turn on native control panel features on smartphone
 
